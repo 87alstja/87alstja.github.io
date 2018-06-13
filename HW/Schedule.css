@@ -1,0 +1,4 @@
+   @media only screen and (min-width: 1000px) {        
+    .col-1{ width:8.20%;} .col-2{width:15.60%;} .col-3{width:30%;} .col-4{ width:33.33%;}
+    .col-5{width:41.49%;} .col-6{width:49%; height:543px;} .col-7{ width:58.33%;} .col-8{width:65.69%; height:665px;}
+    .col-9{width:73%;} .col-10{ width:83.33%;} .col-11{width:90.66%;} .col-12{width:102%;}}
