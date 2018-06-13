@@ -1,18 +1,18 @@
 @charset "utf-8";
 .Header{
     text-align:center;
-    font-family:'Anton';
+    font-family: 'Roboto', sans-serif;
     color:#c93995b5;
 }
 
 .footer{
     text-align:center;
-    font-family: 'Hi+Melody', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color:#c93995b5;
 }
 
 .contents{
     text-align:center;
-    font-family: 'Hi+Melody', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color:#df6484b5
 }
