@@ -5,7 +5,13 @@
     color:#c93995b5;
 }
 
-contents{
+.footer{
     text-align:center;
-    font-family:'Hi+Melody';
+    font-family: 'Hi+Melody', sans-serif;
+    color:#c93995b5;
+}
+
+.contents{
+    text-align:center;
+    font-family: 'Hi+Melody', sans-serif;
 }
